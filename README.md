@@ -1,4 +1,4 @@
-# Monocle REBORN!
+# Debug 2D
 
 ### Debugging Love2D with style
 
